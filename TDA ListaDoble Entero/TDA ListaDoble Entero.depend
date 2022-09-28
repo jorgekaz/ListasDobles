@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda listadoble entero\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664299492 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda listadoble entero\listadoble.c
+	"listaDoble.h"
+
+1664299479 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda listadoble entero\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+
